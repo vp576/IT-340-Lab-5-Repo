@@ -1408,3 +1408,605 @@ tmpfs           387M  132K  387M   1% /run/user/1000
 /dev/sr0         96M   96M     0 100% /media/viswa/CDROM
 /dev/sr1        6.0G  6.0G     0 100% /media/viswa/Ubuntu 24.04.3 LTS amd64
  
+System Monitor
+ 
+ 03:23:01 up  2:09,  1 user,  load average: 0.00, 0.02, 0.00
+               total        used        free      shared  buff/cache   available
+Mem:           3.8Gi       2.0Gi       234Mi       107Mi       1.8Gi       1.8Gi
+Swap:          3.6Gi       504Ki       3.6Gi
+Filesystem      Size  Used Avail Use% Mounted on
+tmpfs           387M  2.0M  385M   1% /run
+/dev/sda2        20G  9.5G  9.1G  52% /
+tmpfs           1.9G     0  1.9G   0% /dev/shm
+tmpfs           5.0M  8.0K  5.0M   1% /run/lock
+tmpfs           387M  132K  387M   1% /run/user/1000
+/dev/sr0         96M   96M     0 100% /media/viswa/CDROM
+/dev/sr1        6.0G  6.0G     0 100% /media/viswa/Ubuntu 24.04.3 LTS amd64
+ 
+System Monitor
+ 
+ 03:49:24 up  2:10,  1 user,  load average: 0.04, 0.03, 0.00
+               total        used        free      shared  buff/cache   available
+Mem:           3.8Gi       1.9Gi       236Mi       107Mi       1.8Gi       1.8Gi
+Swap:          3.6Gi       504Ki       3.6Gi
+Filesystem      Size  Used Avail Use% Mounted on
+tmpfs           387M  2.0M  385M   1% /run
+/dev/sda2        20G  9.5G  9.1G  52% /
+tmpfs           1.9G     0  1.9G   0% /dev/shm
+tmpfs           5.0M  8.0K  5.0M   1% /run/lock
+tmpfs           387M  132K  387M   1% /run/user/1000
+/dev/sr0         96M   96M     0 100% /media/viswa/CDROM
+/dev/sr1        6.0G  6.0G     0 100% /media/viswa/Ubuntu 24.04.3 LTS amd64
+ 
+System Monitor
+ 
+ 03:50:01 up  2:11,  1 user,  load average: 0.02, 0.02, 0.00
+               total        used        free      shared  buff/cache   available
+Mem:           3.8Gi       1.9Gi       240Mi       107Mi       1.8Gi       1.8Gi
+Swap:          3.6Gi       504Ki       3.6Gi
+Filesystem      Size  Used Avail Use% Mounted on
+tmpfs           387M  2.0M  385M   1% /run
+/dev/sda2        20G  9.5G  9.1G  52% /
+tmpfs           1.9G     0  1.9G   0% /dev/shm
+tmpfs           5.0M  8.0K  5.0M   1% /run/lock
+tmpfs           387M  128K  387M   1% /run/user/1000
+/dev/sr0         96M   96M     0 100% /media/viswa/CDROM
+/dev/sr1        6.0G  6.0G     0 100% /media/viswa/Ubuntu 24.04.3 LTS amd64
+ 
+System Monitor
+ 
+ 03:51:01 up  2:12,  1 user,  load average: 0.19, 0.07, 0.02
+               total        used        free      shared  buff/cache   available
+Mem:           3.8Gi       1.2Gi       985Mi        35Mi       1.9Gi       2.6Gi
+Swap:          3.6Gi       504Ki       3.6Gi
+Filesystem      Size  Used Avail Use% Mounted on
+tmpfs           387M  2.0M  385M   1% /run
+/dev/sda2        20G  9.5G  9.1G  52% /
+tmpfs           1.9G     0  1.9G   0% /dev/shm
+tmpfs           5.0M  8.0K  5.0M   1% /run/lock
+tmpfs           387M  120K  387M   1% /run/user/1000
+/dev/sr0         96M   96M     0 100% /media/viswa/CDROM
+/dev/sr1        6.0G  6.0G     0 100% /media/viswa/Ubuntu 24.04.3 LTS amd64
+ 
+System Monitor
+ 
+ 03:52:02 up  2:13,  1 user,  load average: 0.07, 0.05, 0.01
+               total        used        free      shared  buff/cache   available
+Mem:           3.8Gi       1.2Gi       992Mi        35Mi       1.9Gi       2.6Gi
+Swap:          3.6Gi       504Ki       3.6Gi
+Filesystem      Size  Used Avail Use% Mounted on
+tmpfs           387M  2.0M  385M   1% /run
+/dev/sda2        20G  9.5G  9.1G  52% /
+tmpfs           1.9G     0  1.9G   0% /dev/shm
+tmpfs           5.0M  8.0K  5.0M   1% /run/lock
+tmpfs           387M  120K  387M   1% /run/user/1000
+/dev/sr0         96M   96M     0 100% /media/viswa/CDROM
+/dev/sr1        6.0G  6.0G     0 100% /media/viswa/Ubuntu 24.04.3 LTS amd64
+ 
+System Monitor
+ 
+ 03:59:12 up  2:20,  1 user,  load average: 21.23, 15.45, 7.33
+               total        used        free      shared  buff/cache   available
+Mem:           3.8Gi       1.3Gi       945Mi        35Mi       1.9Gi       2.5Gi
+Swap:          3.6Gi       504Ki       3.6Gi
+Filesystem      Size  Used Avail Use% Mounted on
+tmpfs           387M  2.0M  385M   1% /run
+/dev/sda2        20G  9.5G  9.1G  52% /
+tmpfs           1.9G     0  1.9G   0% /dev/shm
+tmpfs           5.0M  8.0K  5.0M   1% /run/lock
+tmpfs           387M  120K  387M   1% /run/user/1000
+/dev/sr0         96M   96M     0 100% /media/viswa/CDROM
+/dev/sr1        6.0G  6.0G     0 100% /media/viswa/Ubuntu 24.04.3 LTS amd64
+ 
+System Monitor
+ 
+ 04:00:01 up  2:21,  2 users,  load average: 10.25, 13.45, 7.08
+               total        used        free      shared  buff/cache   available
+Mem:           3.8Gi       1.5Gi       697Mi        49Mi       1.9Gi       2.3Gi
+Swap:          3.6Gi       500Ki       3.6Gi
+Filesystem      Size  Used Avail Use% Mounted on
+tmpfs           387M  2.2M  385M   1% /run
+/dev/sda2        20G  9.5G  9.1G  52% /
+tmpfs           1.9G     0  1.9G   0% /dev/shm
+tmpfs           5.0M  8.0K  5.0M   1% /run/lock
+tmpfs           387M  120K  387M   1% /run/user/1000
+/dev/sr0         96M   96M     0 100% /media/viswa/CDROM
+/dev/sr1        6.0G  6.0G     0 100% /media/viswa/Ubuntu 24.04.3 LTS amd64
+tmpfs           387M   92K  387M   1% /run/user/120
+ 
+System Monitor
+ 
+ 04:01:01 up  2:22,  1 user,  load average: 3.89, 11.05, 6.65
+               total        used        free      shared  buff/cache   available
+Mem:           3.8Gi       1.2Gi       999Mi        28Mi       1.9Gi       2.6Gi
+Swap:          3.6Gi       500Ki       3.6Gi
+Filesystem      Size  Used Avail Use% Mounted on
+tmpfs           387M  2.1M  385M   1% /run
+/dev/sda2        20G  9.5G  9.1G  52% /
+tmpfs           1.9G     0  1.9G   0% /dev/shm
+tmpfs           5.0M  8.0K  5.0M   1% /run/lock
+tmpfs           387M  112K  387M   1% /run/user/1000
+/dev/sr0         96M   96M     0 100% /media/viswa/CDROM
+/dev/sr1        6.0G  6.0G     0 100% /media/viswa/Ubuntu 24.04.3 LTS amd64
+ 
+System Monitor
+ 
+ 04:02:01 up  2:23,  1 user,  load average: 1.48, 9.05, 6.24
+               total        used        free      shared  buff/cache   available
+Mem:           3.8Gi       1.2Gi       965Mi        35Mi       1.9Gi       2.6Gi
+Swap:          3.6Gi       500Ki       3.6Gi
+Filesystem      Size  Used Avail Use% Mounted on
+tmpfs           387M  2.1M  385M   1% /run
+/dev/sda2        20G  9.5G  9.1G  52% /
+tmpfs           1.9G     0  1.9G   0% /dev/shm
+tmpfs           5.0M  8.0K  5.0M   1% /run/lock
+tmpfs           387M  120K  387M   1% /run/user/1000
+/dev/sr0         96M   96M     0 100% /media/viswa/CDROM
+/dev/sr1        6.0G  6.0G     0 100% /media/viswa/Ubuntu 24.04.3 LTS amd64
+ 
+System Monitor
+ 
+ 04:03:01 up  2:24,  1 user,  load average: 0.54, 7.40, 5.84
+               total        used        free      shared  buff/cache   available
+Mem:           3.8Gi       1.2Gi       958Mi        35Mi       1.9Gi       2.6Gi
+Swap:          3.6Gi       500Ki       3.6Gi
+Filesystem      Size  Used Avail Use% Mounted on
+tmpfs           387M  2.1M  385M   1% /run
+/dev/sda2        20G  9.5G  9.1G  52% /
+tmpfs           1.9G     0  1.9G   0% /dev/shm
+tmpfs           5.0M  8.0K  5.0M   1% /run/lock
+tmpfs           387M  120K  387M   1% /run/user/1000
+/dev/sr0         96M   96M     0 100% /media/viswa/CDROM
+/dev/sr1        6.0G  6.0G     0 100% /media/viswa/Ubuntu 24.04.3 LTS amd64
+ 
+System Monitor
+ 
+ 04:04:01 up  2:25,  1 user,  load average: 0.20, 6.05, 5.47
+               total        used        free      shared  buff/cache   available
+Mem:           3.8Gi       1.2Gi       965Mi        35Mi       1.9Gi       2.6Gi
+Swap:          3.6Gi       500Ki       3.6Gi
+Filesystem      Size  Used Avail Use% Mounted on
+tmpfs           387M  2.1M  385M   1% /run
+/dev/sda2        20G  9.5G  9.1G  52% /
+tmpfs           1.9G     0  1.9G   0% /dev/shm
+tmpfs           5.0M  8.0K  5.0M   1% /run/lock
+tmpfs           387M  120K  387M   1% /run/user/1000
+/dev/sr0         96M   96M     0 100% /media/viswa/CDROM
+/dev/sr1        6.0G  6.0G     0 100% /media/viswa/Ubuntu 24.04.3 LTS amd64
+ 
+System Monitor
+ 
+ 04:05:01 up  2:26,  1 user,  load average: 0.07, 4.95, 5.13
+               total        used        free      shared  buff/cache   available
+Mem:           3.8Gi       1.2Gi       972Mi        35Mi       1.9Gi       2.6Gi
+Swap:          3.6Gi       500Ki       3.6Gi
+Filesystem      Size  Used Avail Use% Mounted on
+tmpfs           387M  2.1M  385M   1% /run
+/dev/sda2        20G  9.5G  9.1G  52% /
+tmpfs           1.9G     0  1.9G   0% /dev/shm
+tmpfs           5.0M  8.0K  5.0M   1% /run/lock
+tmpfs           387M  120K  387M   1% /run/user/1000
+/dev/sr0         96M   96M     0 100% /media/viswa/CDROM
+/dev/sr1        6.0G  6.0G     0 100% /media/viswa/Ubuntu 24.04.3 LTS amd64
+ 
+System Monitor
+ 
+ 04:06:01 up  2:27,  1 user,  load average: 0.02, 4.04, 4.81
+               total        used        free      shared  buff/cache   available
+Mem:           3.8Gi       1.2Gi       973Mi        35Mi       1.9Gi       2.6Gi
+Swap:          3.6Gi       500Ki       3.6Gi
+Filesystem      Size  Used Avail Use% Mounted on
+tmpfs           387M  2.1M  385M   1% /run
+/dev/sda2        20G  9.5G  9.1G  52% /
+tmpfs           1.9G     0  1.9G   0% /dev/shm
+tmpfs           5.0M  8.0K  5.0M   1% /run/lock
+tmpfs           387M  120K  387M   1% /run/user/1000
+/dev/sr0         96M   96M     0 100% /media/viswa/CDROM
+/dev/sr1        6.0G  6.0G     0 100% /media/viswa/Ubuntu 24.04.3 LTS amd64
+ 
+System Monitor
+ 
+ 04:07:01 up  2:28,  1 user,  load average: 0.01, 3.30, 4.50
+               total        used        free      shared  buff/cache   available
+Mem:           3.8Gi       1.2Gi       972Mi        35Mi       1.9Gi       2.6Gi
+Swap:          3.6Gi       500Ki       3.6Gi
+Filesystem      Size  Used Avail Use% Mounted on
+tmpfs           387M  2.1M  385M   1% /run
+/dev/sda2        20G  9.5G  9.1G  52% /
+tmpfs           1.9G     0  1.9G   0% /dev/shm
+tmpfs           5.0M  8.0K  5.0M   1% /run/lock
+tmpfs           387M  120K  387M   1% /run/user/1000
+/dev/sr0         96M   96M     0 100% /media/viswa/CDROM
+/dev/sr1        6.0G  6.0G     0 100% /media/viswa/Ubuntu 24.04.3 LTS amd64
+ 
+System Monitor
+ 
+ 04:08:01 up  2:29,  1 user,  load average: 0.00, 2.70, 4.22
+               total        used        free      shared  buff/cache   available
+Mem:           3.8Gi       1.2Gi       972Mi        35Mi       1.9Gi       2.6Gi
+Swap:          3.6Gi       500Ki       3.6Gi
+Filesystem      Size  Used Avail Use% Mounted on
+tmpfs           387M  2.1M  385M   1% /run
+/dev/sda2        20G  9.5G  9.1G  52% /
+tmpfs           1.9G     0  1.9G   0% /dev/shm
+tmpfs           5.0M  8.0K  5.0M   1% /run/lock
+tmpfs           387M  120K  387M   1% /run/user/1000
+/dev/sr0         96M   96M     0 100% /media/viswa/CDROM
+/dev/sr1        6.0G  6.0G     0 100% /media/viswa/Ubuntu 24.04.3 LTS amd64
+ 
+System Monitor
+ 
+ 04:09:01 up  2:30,  1 user,  load average: 0.00, 2.21, 3.95
+               total        used        free      shared  buff/cache   available
+Mem:           3.8Gi       1.2Gi       972Mi        35Mi       1.9Gi       2.6Gi
+Swap:          3.6Gi       500Ki       3.6Gi
+Filesystem      Size  Used Avail Use% Mounted on
+tmpfs           387M  2.1M  385M   1% /run
+/dev/sda2        20G  9.5G  9.1G  52% /
+tmpfs           1.9G     0  1.9G   0% /dev/shm
+tmpfs           5.0M  8.0K  5.0M   1% /run/lock
+tmpfs           387M  120K  387M   1% /run/user/1000
+/dev/sr0         96M   96M     0 100% /media/viswa/CDROM
+/dev/sr1        6.0G  6.0G     0 100% /media/viswa/Ubuntu 24.04.3 LTS amd64
+ 
+System Monitor
+ 
+ 04:10:01 up  2:31,  1 user,  load average: 0.00, 1.80, 3.70
+               total        used        free      shared  buff/cache   available
+Mem:           3.8Gi       1.2Gi       972Mi        35Mi       1.9Gi       2.6Gi
+Swap:          3.6Gi       500Ki       3.6Gi
+Filesystem      Size  Used Avail Use% Mounted on
+tmpfs           387M  2.1M  385M   1% /run
+/dev/sda2        20G  9.5G  9.1G  52% /
+tmpfs           1.9G     0  1.9G   0% /dev/shm
+tmpfs           5.0M  8.0K  5.0M   1% /run/lock
+tmpfs           387M  120K  387M   1% /run/user/1000
+/dev/sr0         96M   96M     0 100% /media/viswa/CDROM
+/dev/sr1        6.0G  6.0G     0 100% /media/viswa/Ubuntu 24.04.3 LTS amd64
+ 
+System Monitor
+ 
+ 04:11:01 up  2:32,  1 user,  load average: 0.00, 1.47, 3.47
+               total        used        free      shared  buff/cache   available
+Mem:           3.8Gi       1.2Gi       973Mi        35Mi       1.9Gi       2.6Gi
+Swap:          3.6Gi       500Ki       3.6Gi
+Filesystem      Size  Used Avail Use% Mounted on
+tmpfs           387M  2.1M  385M   1% /run
+/dev/sda2        20G  9.5G  9.1G  52% /
+tmpfs           1.9G     0  1.9G   0% /dev/shm
+tmpfs           5.0M  8.0K  5.0M   1% /run/lock
+tmpfs           387M  120K  387M   1% /run/user/1000
+/dev/sr0         96M   96M     0 100% /media/viswa/CDROM
+/dev/sr1        6.0G  6.0G     0 100% /media/viswa/Ubuntu 24.04.3 LTS amd64
+ 
+System Monitor
+ 
+ 04:12:01 up  2:33,  1 user,  load average: 0.00, 1.20, 3.25
+               total        used        free      shared  buff/cache   available
+Mem:           3.8Gi       1.2Gi       972Mi        35Mi       1.9Gi       2.6Gi
+Swap:          3.6Gi       500Ki       3.6Gi
+Filesystem      Size  Used Avail Use% Mounted on
+tmpfs           387M  2.1M  385M   1% /run
+/dev/sda2        20G  9.5G  9.1G  52% /
+tmpfs           1.9G     0  1.9G   0% /dev/shm
+tmpfs           5.0M  8.0K  5.0M   1% /run/lock
+tmpfs           387M  120K  387M   1% /run/user/1000
+/dev/sr0         96M   96M     0 100% /media/viswa/CDROM
+/dev/sr1        6.0G  6.0G     0 100% /media/viswa/Ubuntu 24.04.3 LTS amd64
+ 
+System Monitor
+ 
+ 04:13:01 up  2:34,  1 user,  load average: 0.00, 0.98, 3.04
+               total        used        free      shared  buff/cache   available
+Mem:           3.8Gi       1.2Gi       971Mi        35Mi       1.9Gi       2.6Gi
+Swap:          3.6Gi       500Ki       3.6Gi
+Filesystem      Size  Used Avail Use% Mounted on
+tmpfs           387M  2.1M  385M   1% /run
+/dev/sda2        20G  9.5G  9.1G  52% /
+tmpfs           1.9G     0  1.9G   0% /dev/shm
+tmpfs           5.0M  8.0K  5.0M   1% /run/lock
+tmpfs           387M  120K  387M   1% /run/user/1000
+/dev/sr0         96M   96M     0 100% /media/viswa/CDROM
+/dev/sr1        6.0G  6.0G     0 100% /media/viswa/Ubuntu 24.04.3 LTS amd64
+ 
+System Monitor
+ 
+ 04:14:01 up  2:35,  1 user,  load average: 0.00, 0.80, 2.85
+               total        used        free      shared  buff/cache   available
+Mem:           3.8Gi       1.2Gi       971Mi        35Mi       1.9Gi       2.6Gi
+Swap:          3.6Gi       500Ki       3.6Gi
+Filesystem      Size  Used Avail Use% Mounted on
+tmpfs           387M  2.1M  385M   1% /run
+/dev/sda2        20G  9.5G  9.1G  52% /
+tmpfs           1.9G     0  1.9G   0% /dev/shm
+tmpfs           5.0M  8.0K  5.0M   1% /run/lock
+tmpfs           387M  120K  387M   1% /run/user/1000
+/dev/sr0         96M   96M     0 100% /media/viswa/CDROM
+/dev/sr1        6.0G  6.0G     0 100% /media/viswa/Ubuntu 24.04.3 LTS amd64
+ 
+System Monitor
+ 
+ 04:15:01 up  2:36,  1 user,  load average: 0.06, 0.67, 2.67
+               total        used        free      shared  buff/cache   available
+Mem:           3.8Gi       1.2Gi       970Mi        35Mi       1.9Gi       2.6Gi
+Swap:          3.6Gi       500Ki       3.6Gi
+Filesystem      Size  Used Avail Use% Mounted on
+tmpfs           387M  2.1M  385M   1% /run
+/dev/sda2        20G  9.5G  9.1G  52% /
+tmpfs           1.9G     0  1.9G   0% /dev/shm
+tmpfs           5.0M  8.0K  5.0M   1% /run/lock
+tmpfs           387M  120K  387M   1% /run/user/1000
+/dev/sr0         96M   96M     0 100% /media/viswa/CDROM
+/dev/sr1        6.0G  6.0G     0 100% /media/viswa/Ubuntu 24.04.3 LTS amd64
+ 
+System Monitor
+ 
+ 04:16:01 up  2:37,  1 user,  load average: 0.02, 0.54, 2.50
+               total        used        free      shared  buff/cache   available
+Mem:           3.8Gi       1.2Gi       970Mi        35Mi       1.9Gi       2.6Gi
+Swap:          3.6Gi       500Ki       3.6Gi
+Filesystem      Size  Used Avail Use% Mounted on
+tmpfs           387M  2.1M  385M   1% /run
+/dev/sda2        20G  9.5G  9.1G  52% /
+tmpfs           1.9G     0  1.9G   0% /dev/shm
+tmpfs           5.0M  8.0K  5.0M   1% /run/lock
+tmpfs           387M  120K  387M   1% /run/user/1000
+/dev/sr0         96M   96M     0 100% /media/viswa/CDROM
+/dev/sr1        6.0G  6.0G     0 100% /media/viswa/Ubuntu 24.04.3 LTS amd64
+ 
+System Monitor
+ 
+ 04:17:01 up  2:38,  1 user,  load average: 0.01, 0.44, 2.34
+               total        used        free      shared  buff/cache   available
+Mem:           3.8Gi       1.2Gi       970Mi        35Mi       1.9Gi       2.6Gi
+Swap:          3.6Gi       500Ki       3.6Gi
+Filesystem      Size  Used Avail Use% Mounted on
+tmpfs           387M  2.1M  385M   1% /run
+/dev/sda2        20G  9.5G  9.1G  52% /
+tmpfs           1.9G     0  1.9G   0% /dev/shm
+tmpfs           5.0M  8.0K  5.0M   1% /run/lock
+tmpfs           387M  120K  387M   1% /run/user/1000
+/dev/sr0         96M   96M     0 100% /media/viswa/CDROM
+/dev/sr1        6.0G  6.0G     0 100% /media/viswa/Ubuntu 24.04.3 LTS amd64
+ 
+System Monitor
+ 
+ 04:18:01 up  2:39,  1 user,  load average: 0.00, 0.36, 2.19
+               total        used        free      shared  buff/cache   available
+Mem:           3.8Gi       1.2Gi       966Mi        36Mi       1.9Gi       2.6Gi
+Swap:          3.6Gi       500Ki       3.6Gi
+Filesystem      Size  Used Avail Use% Mounted on
+tmpfs           387M  2.1M  385M   1% /run
+/dev/sda2        20G  9.5G  9.1G  52% /
+tmpfs           1.9G     0  1.9G   0% /dev/shm
+tmpfs           5.0M  8.0K  5.0M   1% /run/lock
+tmpfs           387M  120K  387M   1% /run/user/1000
+/dev/sr0         96M   96M     0 100% /media/viswa/CDROM
+/dev/sr1        6.0G  6.0G     0 100% /media/viswa/Ubuntu 24.04.3 LTS amd64
+ 
+System Monitor
+ 
+ 04:19:01 up  2:40,  1 user,  load average: 0.03, 0.30, 2.06
+               total        used        free      shared  buff/cache   available
+Mem:           3.8Gi       1.2Gi       965Mi        36Mi       1.9Gi       2.6Gi
+Swap:          3.6Gi       500Ki       3.6Gi
+Filesystem      Size  Used Avail Use% Mounted on
+tmpfs           387M  2.1M  385M   1% /run
+/dev/sda2        20G  9.5G  9.1G  52% /
+tmpfs           1.9G     0  1.9G   0% /dev/shm
+tmpfs           5.0M  8.0K  5.0M   1% /run/lock
+tmpfs           387M  120K  387M   1% /run/user/1000
+/dev/sr0         96M   96M     0 100% /media/viswa/CDROM
+/dev/sr1        6.0G  6.0G     0 100% /media/viswa/Ubuntu 24.04.3 LTS amd64
+ 
+System Monitor
+ 
+ 04:20:01 up  2:41,  1 user,  load average: 0.01, 0.25, 1.93
+               total        used        free      shared  buff/cache   available
+Mem:           3.8Gi       1.2Gi       964Mi        36Mi       1.9Gi       2.6Gi
+Swap:          3.6Gi       500Ki       3.6Gi
+Filesystem      Size  Used Avail Use% Mounted on
+tmpfs           387M  2.1M  385M   1% /run
+/dev/sda2        20G  9.5G  9.1G  52% /
+tmpfs           1.9G     0  1.9G   0% /dev/shm
+tmpfs           5.0M  8.0K  5.0M   1% /run/lock
+tmpfs           387M  120K  387M   1% /run/user/1000
+/dev/sr0         96M   96M     0 100% /media/viswa/CDROM
+/dev/sr1        6.0G  6.0G     0 100% /media/viswa/Ubuntu 24.04.3 LTS amd64
+ 
+System Monitor
+ 
+ 04:21:01 up  2:42,  1 user,  load average: 0.00, 0.20, 1.80
+               total        used        free      shared  buff/cache   available
+Mem:           3.8Gi       1.2Gi       965Mi        36Mi       1.9Gi       2.6Gi
+Swap:          3.6Gi       500Ki       3.6Gi
+Filesystem      Size  Used Avail Use% Mounted on
+tmpfs           387M  2.1M  385M   1% /run
+/dev/sda2        20G  9.5G  9.1G  52% /
+tmpfs           1.9G     0  1.9G   0% /dev/shm
+tmpfs           5.0M  8.0K  5.0M   1% /run/lock
+tmpfs           387M  120K  387M   1% /run/user/1000
+/dev/sr0         96M   96M     0 100% /media/viswa/CDROM
+/dev/sr1        6.0G  6.0G     0 100% /media/viswa/Ubuntu 24.04.3 LTS amd64
+ 
+System Monitor
+ 
+ 04:22:02 up  2:43,  1 user,  load average: 0.48, 0.26, 1.72
+               total        used        free      shared  buff/cache   available
+Mem:           3.8Gi       1.2Gi       864Mi        26Mi       2.0Gi       2.6Gi
+Swap:          3.6Gi       500Ki       3.6Gi
+Filesystem      Size  Used Avail Use% Mounted on
+tmpfs           387M  2.1M  385M   1% /run
+/dev/sda2        20G  9.6G  9.0G  52% /
+tmpfs           1.9G     0  1.9G   0% /dev/shm
+tmpfs           5.0M  8.0K  5.0M   1% /run/lock
+/dev/sr0         96M   96M     0 100% /media/viswa/CDROM
+/dev/sr1        6.0G  6.0G     0 100% /media/viswa/Ubuntu 24.04.3 LTS amd64
+tmpfs           387M   92K  387M   1% /run/user/120
+tmpfs           387M  124K  387M   1% /run/user/1001
+ 
+System Monitor
+ 
+ 04:23:01 up  2:44,  1 user,  load average: 0.64, 0.36, 1.66
+               total        used        free      shared  buff/cache   available
+Mem:           3.8Gi       1.1Gi       926Mi        32Mi       2.0Gi       2.6Gi
+Swap:          3.6Gi       500Ki       3.6Gi
+Filesystem      Size  Used Avail Use% Mounted on
+tmpfs           387M  2.0M  385M   1% /run
+/dev/sda2        20G  9.6G  9.0G  52% /
+tmpfs           1.9G     0  1.9G   0% /dev/shm
+tmpfs           5.0M  8.0K  5.0M   1% /run/lock
+/dev/sr0         96M   96M     0 100% /media/viswa/CDROM
+/dev/sr1        6.0G  6.0G     0 100% /media/viswa/Ubuntu 24.04.3 LTS amd64
+tmpfs           387M  108K  387M   1% /run/user/1000
+ 
+System Monitor
+ 
+ 04:24:01 up  2:45,  1 user,  load average: 1.16, 0.51, 1.63
+               total        used        free      shared  buff/cache   available
+Mem:           3.8Gi       1.8Gi       175Mi        60Mi       2.0Gi       1.9Gi
+Swap:          3.6Gi       500Ki       3.6Gi
+Filesystem      Size  Used Avail Use% Mounted on
+tmpfs           387M  2.1M  385M   1% /run
+/dev/sda2        20G  9.6G  9.0G  52% /
+tmpfs           1.9G     0  1.9G   0% /dev/shm
+tmpfs           5.0M  8.0K  5.0M   1% /run/lock
+/dev/sr0         96M   96M     0 100% /media/viswa/CDROM
+/dev/sr1        6.0G  6.0G     0 100% /media/viswa/Ubuntu 24.04.3 LTS amd64
+tmpfs           387M  116K  387M   1% /run/user/1000
+ 
+System Monitor
+ 
+ 04:25:01 up  2:46,  1 user,  load average: 1.08, 0.67, 1.62
+               total        used        free      shared  buff/cache   available
+Mem:           3.8Gi       1.9Gi       269Mi        76Mi       1.7Gi       1.9Gi
+Swap:          3.6Gi       500Ki       3.6Gi
+Filesystem      Size  Used Avail Use% Mounted on
+tmpfs           387M  2.1M  385M   1% /run
+/dev/sda2        20G  9.6G  9.0G  52% /
+tmpfs           1.9G     0  1.9G   0% /dev/shm
+tmpfs           5.0M  8.0K  5.0M   1% /run/lock
+/dev/sr0         96M   96M     0 100% /media/viswa/CDROM
+/dev/sr1        6.0G  6.0G     0 100% /media/viswa/Ubuntu 24.04.3 LTS amd64
+tmpfs           387M  116K  387M   1% /run/user/1000
+ 
+System Monitor
+ 
+ 04:26:01 up  2:47,  1 user,  load average: 0.76, 0.66, 1.56
+               total        used        free      shared  buff/cache   available
+Mem:           3.8Gi       1.8Gi       288Mi        77Mi       1.7Gi       1.9Gi
+Swap:          3.6Gi       500Ki       3.6Gi
+Filesystem      Size  Used Avail Use% Mounted on
+tmpfs           387M  2.1M  385M   1% /run
+/dev/sda2        20G  9.6G  9.0G  52% /
+tmpfs           1.9G     0  1.9G   0% /dev/shm
+tmpfs           5.0M  8.0K  5.0M   1% /run/lock
+/dev/sr0         96M   96M     0 100% /media/viswa/CDROM
+/dev/sr1        6.0G  6.0G     0 100% /media/viswa/Ubuntu 24.04.3 LTS amd64
+tmpfs           387M  116K  387M   1% /run/user/1000
+ 
+System Monitor
+ 
+ 04:27:01 up  2:48,  1 user,  load average: 0.28, 0.54, 1.45
+               total        used        free      shared  buff/cache   available
+Mem:           3.8Gi       1.8Gi       310Mi        77Mi       1.7Gi       2.0Gi
+Swap:          3.6Gi       500Ki       3.6Gi
+Filesystem      Size  Used Avail Use% Mounted on
+tmpfs           387M  2.1M  385M   1% /run
+/dev/sda2        20G  9.6G  9.0G  52% /
+tmpfs           1.9G     0  1.9G   0% /dev/shm
+tmpfs           5.0M  8.0K  5.0M   1% /run/lock
+/dev/sr0         96M   96M     0 100% /media/viswa/CDROM
+/dev/sr1        6.0G  6.0G     0 100% /media/viswa/Ubuntu 24.04.3 LTS amd64
+tmpfs           387M  116K  387M   1% /run/user/1000
+ 
+System Monitor
+ 
+ 04:28:01 up  2:49,  1 user,  load average: 0.13, 0.45, 1.37
+               total        used        free      shared  buff/cache   available
+Mem:           3.8Gi       1.8Gi       317Mi        77Mi       1.7Gi       2.0Gi
+Swap:          3.6Gi       500Ki       3.6Gi
+Filesystem      Size  Used Avail Use% Mounted on
+tmpfs           387M  2.1M  385M   1% /run
+/dev/sda2        20G  9.6G  9.0G  52% /
+tmpfs           1.9G     0  1.9G   0% /dev/shm
+tmpfs           5.0M  8.0K  5.0M   1% /run/lock
+/dev/sr0         96M   96M     0 100% /media/viswa/CDROM
+/dev/sr1        6.0G  6.0G     0 100% /media/viswa/Ubuntu 24.04.3 LTS amd64
+tmpfs           387M  116K  387M   1% /run/user/1000
+ 
+System Monitor
+ 
+ 04:29:01 up  2:50,  1 user,  load average: 0.05, 0.37, 1.28
+               total        used        free      shared  buff/cache   available
+Mem:           3.8Gi       1.9Gi       267Mi        77Mi       1.7Gi       1.9Gi
+Swap:          3.6Gi       500Ki       3.6Gi
+Filesystem      Size  Used Avail Use% Mounted on
+tmpfs           387M  2.1M  385M   1% /run
+/dev/sda2        20G  9.6G  9.0G  52% /
+tmpfs           1.9G     0  1.9G   0% /dev/shm
+tmpfs           5.0M  8.0K  5.0M   1% /run/lock
+/dev/sr0         96M   96M     0 100% /media/viswa/CDROM
+/dev/sr1        6.0G  6.0G     0 100% /media/viswa/Ubuntu 24.04.3 LTS amd64
+tmpfs           387M  116K  387M   1% /run/user/1000
+ 
+System Monitor
+ 
+ 04:30:01 up  2:51,  1 user,  load average: 0.02, 0.30, 1.20
+               total        used        free      shared  buff/cache   available
+Mem:           3.8Gi       1.8Gi       287Mi        77Mi       1.7Gi       2.0Gi
+Swap:          3.6Gi       500Ki       3.6Gi
+Filesystem      Size  Used Avail Use% Mounted on
+tmpfs           387M  2.1M  385M   1% /run
+/dev/sda2        20G  9.6G  9.0G  52% /
+tmpfs           1.9G     0  1.9G   0% /dev/shm
+tmpfs           5.0M  8.0K  5.0M   1% /run/lock
+/dev/sr0         96M   96M     0 100% /media/viswa/CDROM
+/dev/sr1        6.0G  6.0G     0 100% /media/viswa/Ubuntu 24.04.3 LTS amd64
+tmpfs           387M  116K  387M   1% /run/user/1000
+ 
+System Monitor
+ 
+ 04:31:01 up  2:52,  1 user,  load average: 0.00, 0.24, 1.12
+               total        used        free      shared  buff/cache   available
+Mem:           3.8Gi       1.8Gi       294Mi        77Mi       1.7Gi       2.0Gi
+Swap:          3.6Gi       500Ki       3.6Gi
+Filesystem      Size  Used Avail Use% Mounted on
+tmpfs           387M  2.1M  385M   1% /run
+/dev/sda2        20G  9.6G  9.0G  52% /
+tmpfs           1.9G     0  1.9G   0% /dev/shm
+tmpfs           5.0M  8.0K  5.0M   1% /run/lock
+/dev/sr0         96M   96M     0 100% /media/viswa/CDROM
+/dev/sr1        6.0G  6.0G     0 100% /media/viswa/Ubuntu 24.04.3 LTS amd64
+tmpfs           387M  116K  387M   1% /run/user/1000
+ 
+System Monitor
+ 
+ 04:32:01 up  2:53,  1 user,  load average: 0.07, 0.21, 1.05
+               total        used        free      shared  buff/cache   available
+Mem:           3.8Gi       1.8Gi       294Mi        77Mi       1.7Gi       2.0Gi
+Swap:          3.6Gi       500Ki       3.6Gi
+Filesystem      Size  Used Avail Use% Mounted on
+tmpfs           387M  2.1M  385M   1% /run
+/dev/sda2        20G  9.6G  9.0G  52% /
+tmpfs           1.9G     0  1.9G   0% /dev/shm
+tmpfs           5.0M  8.0K  5.0M   1% /run/lock
+/dev/sr0         96M   96M     0 100% /media/viswa/CDROM
+/dev/sr1        6.0G  6.0G     0 100% /media/viswa/Ubuntu 24.04.3 LTS amd64
+tmpfs           387M  116K  387M   1% /run/user/1000
+ 
+System Monitor
+ 
+ 04:33:01 up  2:54,  1 user,  load average: 0.02, 0.17, 0.98
+               total        used        free      shared  buff/cache   available
+Mem:           3.8Gi       1.8Gi       293Mi        77Mi       1.7Gi       2.0Gi
+Swap:          3.6Gi       500Ki       3.6Gi
+Filesystem      Size  Used Avail Use% Mounted on
+tmpfs           387M  2.1M  385M   1% /run
+/dev/sda2        20G  9.6G  9.0G  52% /
+tmpfs           1.9G     0  1.9G   0% /dev/shm
+tmpfs           5.0M  8.0K  5.0M   1% /run/lock
+/dev/sr0         96M   96M     0 100% /media/viswa/CDROM
+/dev/sr1        6.0G  6.0G     0 100% /media/viswa/Ubuntu 24.04.3 LTS amd64
+tmpfs           387M  116K  387M   1% /run/user/1000
+ 
